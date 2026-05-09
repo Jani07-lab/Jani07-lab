@@ -34,13 +34,12 @@ Sou apaixonada por tecnologia e desenvolvimento de software.
 ## 📊 Estatísticas
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jani07-lab&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jani07-lab&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jani07-lab&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jani07-lab&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img height="180em" src="https://streak-stats.demolab.com?user=Jani07-lab&theme=tokyonight&locale=pt_BR&hide_border=true" />
+<img height="180em" src="https://streak-stats.demolab.com?user=Jani07-lab&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
@@ -54,6 +53,6 @@ Sou apaixonada por tecnologia e desenvolvimento de software.
 ## 🌐 Redes Sociais
 
 <p align="left">
-<a href="https://www.linkedin.com/"><img alt="LinkedIn" title="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="www.linkedin.com/in/janielly-benicio-712359387"><img alt="LinkedIn" title="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://github.com/Jani07-lab"><img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
 </p>
