@@ -3,7 +3,7 @@
 **`Desenvolvedora FullStack`**
 
 Me chamo Janielly Benicio, tenho 20 anos e sou natural do Ceará.  
-Concluí o ensino médio na EEEP Maria Cavalcante Costa e atualmente curso Ciência da Computação.  
+Concluí o ensino médio na EEEP Maria Cavalcante Costa e atualmente curso Ciência da Computação na UFC campis Quixadá.  
 Sou apaixonada por tecnologia e desenvolvimento de software.
 
 <p align="left">
